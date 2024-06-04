@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 
 }
 
@@ -27,7 +27,7 @@ footer{
 .cabecalho_menu-lista{
 
     margin: 20px;
-    
+
 }
 
 
